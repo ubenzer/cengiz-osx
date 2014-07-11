@@ -1,0 +1,14 @@
+{
+  "name": "cengiz-osx",
+  "version": "0.1.0",
+  "description": "A little app that shows Jenkins status.",
+  "main": "views/index.html",
+  "window": {
+    "show_in_taskbar": false,
+    "show": false,
+    "toolbar": false
+  },
+  "dependencies": {
+    "numeral": "^1.5.3"
+  }
+}
