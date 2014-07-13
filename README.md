@@ -11,6 +11,9 @@ I needed to watch my Jenkins repo closely and to make that easier I wrote this p
  
 Just enter your project's main Jenkins url on preferences page and you're ready to go!
 
+### Download
+[Click here to download the application.](https://github.com/ubenzer/cengiz-osx/releases/download/v0.1.0/cengiz-osx-0.1.0.zip)
+
 ### Features
 1. Click a build to open in browser.
 2. Live build status updates.
