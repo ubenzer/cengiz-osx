@@ -1,4 +1,6 @@
 # cengiz-osx 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ubenzer/cengiz-osx.svg)](https://greenkeeper.io/)
 **Show Jenkins Build Status on your OSX menu bar.**
 
 ![cengiz-osx-jenkins-mac](https://ubenzer.github.io/cengiz-osx/screenshots/menu-icon.png) 
